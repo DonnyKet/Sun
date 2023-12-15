@@ -4,10 +4,14 @@ weer wat meer
 version 3
 eigenlijk al 4 maarja je weet wel foutje hier go
 foutje daar
+
+branch aangepast
+lalalalal
+=======
 bugfix
-gfsgsgdf
-<<<<<<< HEAD
+gfsgsgdf<<<<<<< HEAD
 hier is geen osebolle o
 =======
 
->>>>>>> conflict
+
+we houden alles
