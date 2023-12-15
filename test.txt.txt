@@ -6,4 +6,8 @@ eigenlijk al 4 maarja je weet wel foutje hier go
 foutje daar
 bugfix
 gfsgsgdf
+<<<<<<< HEAD
 hier is geen osebolle o
+=======
+
+>>>>>>> conflict
